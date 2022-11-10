@@ -1,0 +1,9 @@
+.nav-link {
+    color: rgb(128, 128, 128) !important;
+    background-color: none !important;    
+}
+
+.nav-item .active {
+    color: blue !important;
+    background-color: white !important;
+}
